@@ -17,8 +17,8 @@
 
 |       Description      |    Dataset    | Average accuracy |
 |:----------------------:|:-------------:|:-------------:|
-| The hardest dataset    |    'badges2'    |    0.998830   |
-|   The easiest dataset  | 'primary-tumor' |    0.366166   |
+| The easiest dataset    |    'badges2'    |    0.998830   |
+|   The hardest dataset  | 'primary-tumor' |    0.366166   |
 
 ## 4. The NaN value:
 
